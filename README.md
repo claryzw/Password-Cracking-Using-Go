@@ -11,7 +11,3 @@ Features
 Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please ensure that your code is well-documented and follows the project's code style guidelines.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
