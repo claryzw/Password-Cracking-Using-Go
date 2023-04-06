@@ -1,4 +1,4 @@
-/ Password Cracking with Go by Clarence Itai Msindo
+/ / Password Cracking with Go by Clarence Itai Msindo
 package main
 
 import (
